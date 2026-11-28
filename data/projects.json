@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "projects": [
+    {
+      "slug": "suy_tim",
+      "id": "1.1",
+      "group": 1,
+      "title": "Dự báo nguy cơ đợt cấp suy tim mất bù từ dữ liệu chuỗi thời gian sinh hiệu và cân nặng.",
+      "title_en": "Predicting acute decompensated heart failure risk from vital-sign time series and weight data.",
+      "link": "/du_an/suy_tim"
+    },
+    {
+      "slug": "roi_loan_nhip_tim",
+      "id": "1.2",
+      "group": 1,
+      "title": "Phân loại đa nhãn rối loạn nhịp tim từ tín hiệu điện tâm đồ 12 chuyển đạo.",
+      "title_en": "Multi-label arrhythmia classification from 12-lead ECG signals.",
+      "link": "/du_an/roi_loan_nhip_tim"
+    },
+    {
+      "slug": "may_day",
+      "id": "2.1",
+      "group": 2,
+      "title": "Phân vùng và đo lường sẩn phù qua ảnh chụp da hỗ trợ quản lý bệnh Mày đay.",
+      "title_en": "Segmenting and measuring hives (wheals) from skin photographs to support Urticaria management.",
+      "link": "/du_an/may_day"
+    },
+    {
+      "slug": "day_mat",
+      "id": "2.2",
+      "group": 2,
+      "title": "Phân loại mức độ Bệnh võng mạc đái tháo đường (Diabetic Retinopathy) qua ảnh chụp đáy mắt.",
+      "title_en": "Grading Diabetic Retinopathy (DR) severity from fundus photographs.",
+      "link": "/du_an/day_mat"
+    },
+    {
+      "slug": "glocom",
+      "id": "2.3",
+      "group": 2,
+      "title": "Tự động đo lường tỷ lệ C/D (Cup-to-Disc Ratio) trên ảnh đáy mắt để tầm soát bệnh Glocôm.",
+      "title_en": "Automatic Cup-to-Disc Ratio (CDR) measurement from fundus images for glaucoma screening.",
+      "link": "/du_an/glocom"
+    },
+    {
+      "slug": "amd",
+      "id": "2.4",
+      "group": 2,
+      "title": "Phân loại Thoái hóa hoàng điểm tuổi già (Age-related Macular Degeneration) qua ảnh chụp đáy mắt.",
+      "title_en": "Classifying Age-related Macular Degeneration (AMD) from fundus photographs.",
+      "link": "/du_an/amd"
+    },
+    {
+      "slug": "erm",
+      "id": "2.5",
+      "group": 2,
+      "title": "Phát hiện Màng trước võng mạc (Epiretinal Membrane) qua ảnh đáy mắt hoặc OCT.",
+      "title_en": "Detecting Epiretinal Membrane (ERM) from fundus photographs or OCT.",
+      "link": "/du_an/erm"
+    },
+    {
+      "slug": "edge_ai_da_benh_ly",
+      "id": "2.6",
+      "group": 2,
+      "title": "Phân loại đa bệnh lý võng mạc (DR, AMD, Glaucoma...) đồng thời bằng một mô hình Edge AI offline duy nhất (nâng cao — hợp nhất).",
+      "title_en": "Simultaneous multi-label classification of retinal diseases (DR, AMD, Glaucoma...) with a single offline Edge AI model (advanced — unified).",
+      "link": "/du_an/edge_ai_da_benh_ly"
+    },
+    {
+      "slug": "iqa_fundus",
+      "id": "2.7",
+      "group": 2,
+      "title": "Đánh giá chất lượng ảnh đáy mắt tự động (Image Quality Assessment) — cổng chất lượng trước khi chẩn đoán.",
+      "title_en": "Automated fundus Image Quality Assessment (IQA) — a quality gate before diagnosis.",
+      "link": "/du_an/iqa_fundus"
+    },
+    {
+      "slug": "tu_tru_suy_tim",
+      "id": "3.1",
+      "group": 3,
+      "title": "Gợi ý cá thể hóa phác đồ \"Tứ trụ\" cho người cao tuổi suy yếu mắc Suy tim.",
+      "title_en": "Personalizing the \"Four Pillars\" Heart Failure regimen for frail elderly patients.",
+      "link": "/du_an/tu_tru_suy_tim"
+    },
+    {
+      "slug": "sa_sut_tri_tue",
+      "id": "3.2",
+      "group": 3,
+      "title": "Xử lý dữ liệu khuyết thiếu thang điểm nhận thức (MMSE/MoCA) trong sàng lọc Sa sút trí tuệ.",
+      "title_en": "Handling missing cognitive-score data (MMSE/MoCA) in Dementia screening.",
+      "link": "/du_an/sa_sut_tri_tue"
+    },
+    {
+      "slug": "te_nga_khang_cholinergic",
+      "id": "3.3",
+      "group": 3,
+      "title": "Xây dựng hệ thống cảnh báo nguy cơ té ngã và Gánh nặng kháng cholinergic (DDI-AI).",
+      "title_en": "Building a fall-risk and Anticholinergic Burden warning system (DDI-AI).",
+      "link": "/du_an/te_nga_khang_cholinergic"
+    },
+    {
+      "slug": "suy_tim_risk_dxai",
+      "id": "3.4",
+      "group": 3,
+      "title": "Phân tầng nguy cơ tử vong/biến chứng ở bệnh nhân Suy tim từ dữ liệu dạng bảng (Tabular DxAI) — phiên bản CẤP TỐC.",
+      "title_en": "Mortality/complication risk stratification for Heart Failure patients from tabular data (Tabular DxAI) — ACCELERATED version.",
+      "link": "/du_an/suy_tim_risk_dxai"
+    },
+    {
+      "slug": "may_day_nlp",
+      "id": "4.1",
+      "group": 4,
+      "title": "Trích xuất tự động hoàn cảnh khởi phát bệnh Mày đay từ bệnh sử tự do (Free-text).",
+      "title_en": "Automatically extracting Urticaria trigger context from free-text clinical history.",
+      "link": "/du_an/may_day_nlp"
+    },
+    {
+      "slug": "phan_loai_icd10",
+      "id": "4.2",
+      "group": 4,
+      "title": "Tự động phân loại mã bệnh ICD-10 từ bản tóm tắt xuất viện (Discharge Summaries).",
+      "title_en": "Automatic ICD-10 code classification from hospital discharge summaries.",
+      "link": "/du_an/phan_loai_icd10"
+    }
+  ]
+}

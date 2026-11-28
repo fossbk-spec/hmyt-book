@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "standard": {
+    "M1": {
+      "points": 15,
+      "week": 3
+    },
+    "M2": {
+      "points": 20,
+      "week": 6
+    },
+    "M3": {
+      "points": 25,
+      "week": 10
+    },
+    "M4": {
+      "points": 15,
+      "week": 12
+    },
+    "FINAL": {
+      "points": 25,
+      "week": 15
+    }
+  }
+}
